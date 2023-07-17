@@ -6,7 +6,7 @@ import { Component } from "@angular/core";
     template: `
     <header>
         <h1>Intro to Programming</h1>
-        <p> Sample full stack app</p>
+        <p> Sample full stack app for class</p>
     </header>
     `
 })
