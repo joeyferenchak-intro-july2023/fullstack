@@ -11,7 +11,7 @@ module.exports = {
   ],
 
   daisyui: {
-    themes: ["cyberpunk"]
+    themes: ["cyberpunk", "dark", "aqua"]
   }
 }
 

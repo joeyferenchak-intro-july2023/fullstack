@@ -5,5 +5,8 @@
 
     "editor.quickSuggestions": {
         "strings": "true"
-    }
+    },
+    "explorer.compactFolders": false,
+    "workbench.tree.indent": 14,
+    "editor.formatOnSave": true
 }

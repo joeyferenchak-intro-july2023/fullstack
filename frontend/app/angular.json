@@ -117,7 +117,8 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [],
+            "component-test":"cypress open"
           }
         }
       }
