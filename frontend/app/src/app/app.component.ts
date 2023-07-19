@@ -4,8 +4,7 @@ import { RouterOutlet } from '@angular/router';
 import { HeaderComponent } from "./components/header.component";
 import { NavigationComponent } from './components/navigation.component';
 
-// Metadata Decorators - Typescript
-// C# - Attributes [Component]
+
 @Component({
   selector: 'app-root',
   standalone: true,

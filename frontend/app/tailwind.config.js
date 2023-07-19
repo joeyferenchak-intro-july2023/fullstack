@@ -1,6 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,ts}"],
+  content: [
+    "./src/**/*.{html,ts}",
+  ],
   theme: {
     extend: {},
   },
@@ -9,9 +11,8 @@ module.exports = {
     require('@tailwindcss/typography'),
     require('daisyui')
   ],
-
   daisyui: {
-    themes: ["cyberpunk", "dark", "aqua"]
+    themes: ["aqua", "cupcake", "cyberpunk"]
   }
 }
 

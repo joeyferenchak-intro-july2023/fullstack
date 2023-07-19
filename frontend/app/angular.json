@@ -117,14 +117,13 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
-            "component-test":"cypress open"
+            "scripts": []
           }
         }
       }
     }
   },
   "cli": {
-    "analytics": "24e5648f-0e4f-44d4-a8c9-a6e268dd0c3e"
+    "analytics": "8d1da299-3ddb-4437-94db-eb7b4e0e78e7"
   }
 }
